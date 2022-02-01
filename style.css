@@ -1,0 +1,12 @@
+body{
+  background-image: url('./love.jpeg');
+  background-repeat: no-repeat;
+  /* position: fixed; */
+  background-size: cover;
+}
+.text{
+  font-size: 60px;
+  color: aliceblue;
+  text-shadow: 3px 3px rgb(114, 102, 102);
+}
+
